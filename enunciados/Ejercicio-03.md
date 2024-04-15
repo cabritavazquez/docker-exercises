@@ -7,7 +7,7 @@
 ## Consideraciones
  1. En la carpeta `soluciones` se creara una carpeta con el siguiente formato  `<vuestro nombre>-Ejercicio-3`.
  1. En esa carpeta se dejara el dockerfile creado y en un documento txt llamado `comandos.txt` con los comandos realiazado con sus salidas por pantalla.
- 2. El ejercicio consta de un proyecto `nginx`. Tendreis que llevaros usar el codigo que se encuentra en la carpeta `./datos/Ejercicio03`. El dockerfile ya os lo proporciono yo.
+ 2. El ejercicio consta de un proyecto `nginx`. Tendreis que usar el codigo que se encuentra en la carpeta `./datos/Ejercicio03`. El dockerfile ya os lo proporciono yo.
 ## Tarea
 1. Generar la imagen del proyecto.
 2. Listar las imagenes y asegurarse de que lo teneis en vuestro local.
