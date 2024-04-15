@@ -14,7 +14,7 @@
     >[!TIP] Recomendacion.
     Estaria muy interesante que useis [dockerHub](https://hub.docker.com/), un repositorio publico de imagenes y seleccionarais una que os guste. Pero si no sabeis usar una llamada 'ubuntu'. La idea es que exploreis.
 
-2. Optenido la imagen, desplegar el contenedor con la nomenclatura  `<vuestro nombre>-<nombre imagen>`.
+2. Obtenido la imagen, desplegar el contenedor con la nomenclatura  `<vuestro nombre>-<nombre imagen>`.
 3. Usar el comando para listar las imagenes.
 4. Usar el comando para listar los contenedores y su estado.
 5. Usar el comando que os permita meteros por consola al contenedor y haced cualquier comando. Me sirve cualquiera.
